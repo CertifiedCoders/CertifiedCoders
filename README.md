@@ -18,17 +18,12 @@
   </table>
 </div>
 
-<!-- ✨ Animated Header (Bottom) -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
 
 <!-- 👁 Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
 
----
 
 ## 📌 About Me
 
@@ -48,7 +43,6 @@
 </tr>
 </table>
 
----
 
 ## 🌐 Connect With Me
 
@@ -77,7 +71,6 @@
 </tr>
 </table>
 
----
 
 ## 💻 Tech Stack
 
@@ -104,7 +97,6 @@
 </td></tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
@@ -137,7 +129,6 @@
   </tr>
 </table>
 
----
 
 ## 🚀 Featured Projects
 
@@ -156,7 +147,6 @@
   </tr>
 </table>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -164,7 +154,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CertifiedCoders&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
----
 
 <!-- 🔚 Final Footer GIF -->
 <p align="center">
