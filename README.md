@@ -41,19 +41,18 @@
     </ul>
   </td>
   <td width="30%" align="center">
-    <img src="https://github.com/CertifiedCoders/CertifiedCoders/blob/main/Robo.webp" width="170" alt="Robo" />
+    <img src="https://github.com/CertifiedCoders/CertifiedCoders/blob/main/Robo.webp" width="250" alt="Robo" />
   </td>
 </tr>
 </table>
 
-##
 
 ## ☕ Support Me
 
 <p align="center">
   <a href="https://buymeacoffee.com/certifiedcoders" target="_blank">
     <!-- Animated GIF button — falls back to clickable link if images are blocked -->
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWxrYmRiYzl0dm84N2IzN3U0MHNvNWVzMTN6cHlyMzh2bmp1aWJtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" alt="Buy Me a Coffee" width="360" style="border-radius:12px;" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWxrYmRiYzl0dm84N2IzN3U0MHNvNWVzMTN6cHlyMzh2bmp1aWJtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" alt="Buy Me a Coffee" width="250" style="border-radius:12px;" />
   </a>
 </p>
 
@@ -64,7 +63,6 @@
   </a>
 </p>
 
-##
 
 ## 🌐 Connect With Me
 
