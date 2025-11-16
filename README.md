@@ -1,10 +1,13 @@
+# Updated GitHub Profile README
+
 <!-- ✨ Animated Header (Top) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-
 <!-- 👤 Avatar + Typing Banner -->
+
 <div align="center">
   <table>
     <tr>
@@ -18,12 +21,31 @@
   </table>
 </div>
 
-
 <!-- 👁 Visitor Counter -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
 
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank">
+    <!-- Animated GIF button — falls back to clickable link if images are blocked -->
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWxrYmRiYzl0dm84N2IzN3U0MHNvNWVzMTN6cHlyMzh2bmp1aWJtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" alt="Buy Me a Coffee" width="360" style="border-radius:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Static fallback button for readers with images disabled -->
+  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support Me" />
+  </a>
+</p>
+
+---
 
 ## 📌 About Me
 
@@ -42,7 +64,6 @@
   </td>
 </tr>
 </table>
-
 
 ## 🌐 Connect With Me
 
@@ -71,41 +92,37 @@
 </tr>
 </table>
 
-
 ## 💻 Tech Stack
 
 <table>
 <tr><td align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge\&logo=heroku\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 </td></tr>
 </table>
 
-
 ## 📊 GitHub Stats
 
-<!-- 📈 Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CertifiedCoders&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" />
 </p>
 
-<!-- 🧠 Streak | Summary -->
 <table>
   <tr>
     <td width="50%">
@@ -117,7 +134,6 @@
   </tr>
 </table>
 
-<!-- ⚡ Stats | 🌐 Languages -->
 <table>
   <tr>
     <td width="50%">
@@ -128,7 +144,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 🚀 Featured Projects
 
@@ -147,15 +162,12 @@
   </tr>
 </table>
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CertifiedCoders&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
-
-<!-- 🔚 Final Footer GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
