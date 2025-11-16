@@ -27,25 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=CertifiedCoders&style=flat-square" />
 </p>
 
----
-
-## ☕ Support Me
-
-<p align="center">
-  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank">
-    <!-- Animated GIF button — falls back to clickable link if images are blocked -->
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWxrYmRiYzl0dm84N2IzN3U0MHNvNWVzMTN6cHlyMzh2bmp1aWJtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" alt="Buy Me a Coffee" width="360" style="border-radius:12px;" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Static fallback button for readers with images disabled -->
-  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support Me" />
-  </a>
-</p>
-
----
 
 ## 📌 About Me
 
@@ -64,6 +45,26 @@
   </td>
 </tr>
 </table>
+
+##
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank">
+    <!-- Animated GIF button — falls back to clickable link if images are blocked -->
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWxrYmRiYzl0dm84N2IzN3U0MHNvNWVzMTN6cHlyMzh2bmp1aWJtciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HBDT4QSTpveU/giphy.gif" alt="Buy Me a Coffee" width="360" style="border-radius:12px;" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Static fallback button for readers with images disabled -->
+  <a href="https://buymeacoffee.com/certifiedcoders" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Support%20Me-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Support Me" />
+  </a>
+</p>
+
+##
 
 ## 🌐 Connect With Me
 
