@@ -27,7 +27,7 @@
     <td width="70%" style="vertical-align: top; padding-right: 20px;">
       <ul>
         <li>🔭 Building <strong>Telegram Bots and Websites</strong> with real-time features</li>
-        <li>⚡ Specializing in <strong>Bot Development & Automation98 Automation</strong></li>
+        <li>⚡ Specializing in <strong>Bot Development & Automation Automation</strong></li>
         <li>🌱 Currently mastering <strong>Python, Async Programming, APIs</strong></li>
         <li>👀 Explore my <strong>public bots & tools</strong> below!</li>
       </ul>
